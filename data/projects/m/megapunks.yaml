@@ -1,0 +1,15 @@
+version: 7
+name: megapunks
+display_name: MegaPunk Casino
+description: MegaPunks is a community first onchain gaming project built on MegaETH, with MegaPunk Casino as its flagship arcade of provably fair games. The ecosystem is designed to turn real gameplay into measurable activity: players place bets, compete on leaderboards, and earn rewards based on participation rather than passive holding. MegaPunks focuses on simple, fast gameplay loops, transparent contract-driven outcomes, and a consistent pixel-identity brand across the product suite
+websites:
+  - url: https://megapunks.org/
+social:
+  twitter:
+    - url: https://x.com/Megaeth_Punks
+  telegram:
+    - url: https://t.me/MegaPunksNft
+  discord:
+    - url: https://discord.gg/9sKwbf7E
+github:
+  - url: https://github.com/megapunks
